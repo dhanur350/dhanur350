@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there 👋 Trying what I can !
 
+
+## Difference between `git reset --hard` and `git revert <shaHere>`
+tl;dr: There is a very great significance of using `revert` instead of `git reset` coz it preserver all history and its important if you pushed earlier commmit to public and want it to be undone(remove) and still don't want to force push then `git revert` rocks coz it does exactly that! Read below like for more insights!.
+
+## [Source](https://github.blog/2015-06-08-how-to-undo-almost-anything-with-git/#undo-a-public-change)  
 <!--
 **dhanur350/dhanur350** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
