@@ -1,5 +1,6 @@
 ### Hi there 👋 Trying what I can !
 **[dhanur350/dhanur350](https://github.com/dhanur350)**
+## - 😁 Find me on cmd, type npx dhanur350-intro
 ## - 🔭 I’m currently on to learn backend  
 ## - 🌱 I’m making progress by learning NodeJS
 ## - 🌱 I've completed some basics of JS
