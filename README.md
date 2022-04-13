@@ -10,6 +10,7 @@ tl;dr: There is a very great significance of using `revert` instead of `git rese
 
 ## [Source](https://github.blog/2015-06-08-how-to-undo-almost-anything-with-git/#undo-a-public-change)  
 
+## - Do u know that if your repo does not accepting changes updates via git pull, you can use git pull -f and it'll forcefully update your current repo with github database of your repo 
 ## Git push -f will forcely push your repo to Github , but only use this when your git refuse to push it into your repo
 <!--
 **dhanur350/dhanur350** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
