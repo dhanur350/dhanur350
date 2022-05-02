@@ -4,7 +4,7 @@
 ## - 🔭 I’m currently on to learn backend  
 ## - 🌱 I’m making progress by learning NodeJS
 ## - 🌱 I've completed some basics of JS
-## - 📫 How to reach me: `[Email]`(`mailto:dhanur297@gmail.com`)
+## - 📫 How to reach me: [Email](`mailto:dhanur297@gmail.com`)
 ## Difference between `git reset --hard` and `git revert <shaHere>`
 tl;dr: There is a very great significance of using `revert` instead of `git reset` coz it preserver all history and its important if you pushed earlier commmit to public and want it to be undone(remove) and still don't want to force push then `git revert` rocks coz it does exactly that! Read below like for more insights!.
 
