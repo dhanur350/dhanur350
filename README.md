@@ -1,7 +1,7 @@
 ### Hi there 👋 Trying what I can !
 **[dhanur350/dhanur350](https://github.com/dhanur350)**
 ## - 😁 Find me on cmd, type `npx dhanur350-intro`
-## - 🔭 I’m currently on to learn and become backend engineer  
+## - 🔭 I’m currently on to learn backend but main goal is to become FullStack Developer
 ## - 🌱 I’m making progress by learning NodeJS
 ## - 🌱 I've completed some basics of JS
 ## - 📫 How to reach me: [Email](mailto:dhanur297@gmail.com)
