@@ -15,10 +15,13 @@ tl;dr: ,There is a very great significance of using `revert` instead of `git res
 ## Made a gacp function in bash alias, Windows 
 
 - `gac (){`
+
     `echo + git add .`
     `git add .`
+    
     `echo + git commit -m \'$@\'`
     `git commit -m "$*" # gac life is amazing adders`
+
 `}`
 
 # Usage: gacp life is super amazing. 
