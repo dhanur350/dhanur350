@@ -21,7 +21,8 @@ tl;dr: ,There is a very great significance of using `revert` instead of `git res
     `git commit -m "$*" # gac life is amazing adders`
 `}`
 
-# Usage: gacp life is super amazing. `gacps shortcuts life to project pushing quicker.`
+# Usage: gacp life is super amazing. 
+- `gacps shortcuts life to project pushing quicker.`
 
 gacp (){
     echo + git add .
