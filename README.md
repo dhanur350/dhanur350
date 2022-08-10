@@ -13,14 +13,16 @@ tl;dr: ,There is a very great significance of using `revert` instead of `git res
 ## - Do u know that if your repo does not accepting changes updates via git pull, you can use git pull -f and it'll forcefully update your current repo with github database of your repo 
 ## Git push -f will forcely push your repo to Github , but only use this when your git refuse to push it into your repo
 ## Made a gacp function in bash alias, Windows 
-gac (){
-    echo + git add .
-    git add .
-    echo + git commit -m \'$@\'
-    git commit -m "$*" # gac life is amazing adders
-}
+
+- `gac (){`
+    `echo + git add .`
+    `git add .`
+    `echo + git commit -m \'$@\'`
+    `git commit -m "$*" # gac life is amazing adders`
+`}`
 
 # Usage: gacp life is super amazing. `gacps shortcuts life to project pushing quicker.`
+
 gacp (){
     echo + git add .
     git add .
