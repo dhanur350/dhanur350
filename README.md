@@ -30,14 +30,19 @@ tl;dr: ,There is a very great significance of using `revert` instead of `git res
 - `gacps shortcuts life to project pushing quicker.`
 
 gacp (){
+
     echo + git add .
+    
     git add .
 
     echo + git commit -m \'$@\'
+    
     git commit -m "$*"
 
     echo + git push -f
+    
     git push -f
+
 }
 
 <!--
