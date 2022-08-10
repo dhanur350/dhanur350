@@ -17,9 +17,11 @@ tl;dr: ,There is a very great significance of using `revert` instead of `git res
 - `gac (){`
 
     `echo + git add .`
+    
     `git add .`
     
     `echo + git commit -m \'$@\'`
+    
     `git commit -m "$*" # gac life is amazing adders`
 
 `}`
