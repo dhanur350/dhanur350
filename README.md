@@ -5,8 +5,8 @@
 ## - 🌱 I’m making progress by learning NodeJS
 ## - 🌱 NodeJS(Skill Certificate) [Click here](https://www.hackerrank.com/certificates/d760b382240e)
 ## - 🌱 I've completed some basics of JS
-## - 🌱 JavaScript(Skill Certificates)[Source1 link](https://www.hackerrank.com/certificates/7b12add32d84)
-## - 🌱 JavaScript(Skill Certificates)[Source2 Link1](https://skillsoft.digitalbadges.skillsoft.com/6cbf8cc6-94d2-4d64-8d97-801078149751) [Source2 Link2](https://drive.google.com/file/d/1arQYd47h32RQ2k-1iPhj0TUt7Pp9yj3d/view?usp=sharing)
+## - 🌱 JavaScript(Skill Certificates) [Source1 link](https://www.hackerrank.com/certificates/7b12add32d84)
+## - 🌱 JavaScript(Skill Certificates) [Source2 Link1](https://skillsoft.digitalbadges.skillsoft.com/6cbf8cc6-94d2-4d64-8d97-801078149751) [Source2 Link2](https://drive.google.com/file/d/1arQYd47h32RQ2k-1iPhj0TUt7Pp9yj3d/view?usp=sharing)
 ## - 📫 How to reach me: [Email](mailto:dhanur297@gmail.com)
 ## Difference between `git reset --hard` and `git revert <shaHere>`
 tl;dr: ,There is a very great significance of using `revert` instead of `git reset` coz it preserver all history and its important if you pushed earlier commmit to public and want it to be undone(remove) and still don't want to force push then `git revert` rocks coz it does exactly that! Read below like for more insights!.
