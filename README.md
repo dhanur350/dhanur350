@@ -1,7 +1,7 @@
 ### Hi there 👋 Trying what I can !
 **[dhanur350](https://github.com/dhanur350)**
 - **[PortFolio](https://dhanur350.github.io/My_Portfolio/)**
-## - 😁 Find me on cmd, type `npx dhanur350-intro`
+## - 😁 Find me on cmd, type `npx dhanur350-intro`,require NodeJS to be installed in your computer.
 ## - 🔭 I’m currently on to learn backend but main goal is to become FullStack Developer
 ## - 🌱 I’m making progress by learning NodeJS
 ## - 🌱 NodeJS(Skill Certificate) [Click here](https://www.hackerrank.com/certificates/d760b382240e)
