@@ -49,6 +49,28 @@ gacp (){
 
 }
 
+## Do you know that you can manage two githubs at same computer using this technique
+
+### User1 github handler
+
+Host User1 github.com
+
+    HostName github.com
+    
+    User git
+    
+    IdentityFile ~/.ssh/id_rsa_User1 
+
+### User2 github handler
+
+Host User2 github.com
+
+    HostName github.com
+    
+    User git
+    
+    IdentityFile ~/.ssh/id_rsa_User2
+    
 <!--
 **dhanur350/dhanur350** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
