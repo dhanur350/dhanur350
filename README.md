@@ -4,7 +4,7 @@
 ## - 😁 Find me on cmd, type `npx dhanur350-intro`, require NodeJS to be installed in your computer.
 ## - 🔭 I’m currently on to learn backend but main goal is to become FullStack Developer
 ## - 🌱 NodeJS(Skill Certificate) [Click here](https://www.hackerrank.com/certificates/d760b382240e)
-## - 🌱 ![DevTown](https://global-uploads.webflow.com/6077f96cf4fa19216396daaf/61a1bee63c6e040a0dd33805_LOGO.svg)
+## - ![DevTown](https://global-uploads.webflow.com/6077f96cf4fa19216396daaf/61a1bee63c6e040a0dd33805_LOGO.svg)
 ## - 🌱 FullStack Web Development Training Completion [DevTown Certificate](https://cert.devtown.in/verify/ZEcIMv)
 ## - 🌱 DevTown FullStack Web Development Certificate 2 [DevTown Course Certificate](https://cert.devtown.in/verify/1Ip8l8)
 ## - 🌱 DevTown FullStack Certificate 3 [Link](https://cert.devtown.in/verify/Zfbu7o)
