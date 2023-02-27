@@ -6,6 +6,7 @@
 ## - 🌱 NodeJS(Skill Certificate) [Click here](https://www.hackerrank.com/certificates/d760b382240e)
 <!-- ## - ![DevTown](https://global-uploads.webflow.com/6077f96cf4fa19216396daaf/61a1bee63c6e040a0dd33805_LOGO.svg) -->
 ## - ![DevTown](https://img.icons8.com/ios/256/code--v1.png)
+## - ![DevTown](https://image.shutterstock.com/image-vector/vector-coding-icon-260nw-226461892.jpg)
 ## - 🌱 FullStack Web Development Training Completion [DevTown Certificate](https://cert.devtown.in/verify/ZEcIMv)
 ## - 🌱 DevTown FullStack Web Development Certificate 2 [DevTown Course Certificate](https://cert.devtown.in/verify/1Ip8l8)
 ## - 🌱 DevTown FullStack Certificate 3 [Link](https://cert.devtown.in/verify/Zfbu7o)
