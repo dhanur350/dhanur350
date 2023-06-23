@@ -2,6 +2,7 @@
 ### **[dhanur350](https://github.com/dhanur350)**
 # - **My [PortFolio](https://dhanur350.github.io/My_Portfolio/)**
 ## - 😁 Find me on cmd, type `npx dhanur350-intro`, require NodeJS to be installed in your computer.
+## - Checkout my Notes here [NodeJS_errros.md](https://github.com/dhanur350/dhanur350/blob/master/NodeJS_errros.md) and [Notes.md](https://github.com/dhanur350/dhanur350/blob/master/Notes.md)
 ## - 🔭 I’m currently on to learn backend but main goal is to become FullStack Developer
 ## - 🌱 NodeJS(Skill Certificate) [Click here](https://www.hackerrank.com/certificates/d760b382240e)
 <!-- ## - ![DevTown](https://global-uploads.webflow.com/6077f96cf4fa19216396daaf/61a1bee63c6e040a0dd33805_LOGO.svg) -->
