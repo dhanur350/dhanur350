@@ -6,7 +6,7 @@
 ## - 🔭 I’m currently on to learn backend but main goal is to become FullStack Developer
 ## - 🌱 NodeJS(Skill Certificate) [Click here](https://www.hackerrank.com/certificates/d760b382240e)
 <!-- ## - ![DevTown](https://global-uploads.webflow.com/6077f96cf4fa19216396daaf/61a1bee63c6e040a0dd33805_LOGO.svg) -->
-<!-- ## - ![DevTown](https://img.icons8.com/ios/256/code--v1.png) -->
+<!-- ## - ![DevTown]....(https://img.icons8.com/ios/256/code--v1.png) -->
 <!-- ## - ![DevTown](https://image.shutterstock.com/image-vector/vector-coding-icon-260nw-226461892.jpg)  -->
 ## - <img style="height:17px" src="https://cdn-icons-png.flaticon.com/128/1006/1006363.png"/> DevTown FullStack Web Development Training Completed
 ## - 🌱 FullStack Web Development Training Completion [DevTown Certificate](https://cert.devtown.in/verify/ZEcIMv)
