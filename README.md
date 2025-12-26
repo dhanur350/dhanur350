@@ -5,7 +5,7 @@ Practical engineer focused on building and operating reliable web platforms and 
 **Core strengths:**
 - System design and scalable architecture (APIs, microservices)
 - Backend services: Node.js, TypeScript, Java, .NET
-- Frontend: React, TypeScript, modern toolchains (Vite, Webpack)
+- Frontend: React, React Native, NuxtJS, VueJS, AngularJS, TypeScript, modern toolchains (Vite, Webpack)
 - Cloud & infra: AWS, Azure, Docker, CI/CD and observability
 - Databases: PostgreSQL, MongoDB, MySQL; data modelling and migrations
 - Testing, automation, and developer productivity
